@@ -142,6 +142,11 @@ An interactive Power BI dashboard built on comprehensive PizzaHut transaction da
 ---
 
 ## 📄 Author
- 
+
+**Data Analytics Team**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-sana-3908a130b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayeshasana0355/pizzahut_dashboard)
 
+**Dashboard Version:** 1.0  
+**Last Updated:** June 2026  
+**Status:** Production Ready
