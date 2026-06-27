@@ -10,7 +10,7 @@ An interactive Power BI dashboard built on comprehensive PizzaHut transaction da
 
 ## 🖼️ Dashboard Preview
 
-![PizzaHut Sales Dashboard](pizzasales.png)
+![PizzaHut Sales Dashboard](pizzaaa.png)
 
 ---
 
